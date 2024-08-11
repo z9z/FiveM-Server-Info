@@ -15,7 +15,7 @@ Ensure you have the required packages installed. You can install them using:
 `pip install -r requirements.txt`
 
 ## Download
-> Download : [ClickHere](https://github.com/z9z/FiveM-Server-Info/archive/refs/heads/FiveM-Server-Info.zip) (FiveM-Server-Info.zip)
+> Download : [ClickHere](https://github.com/z9z/FiveM-Server-Info/archive/refs/heads/main.zip) (main.zip)
 
 ## License
 Released under MIT. See `LICENSE` for details.
